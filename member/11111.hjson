@@ -1,0 +1,10 @@
+{
+    id: 11111,
+    name: フニャコフニャ夫,
+    skills: {
+        C言語: 1,
+        Python: 2,
+        UML: 1,
+        SysML: 0,
+    }
+}
